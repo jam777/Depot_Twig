@@ -1,0 +1,12 @@
+{
+    "name": "twig_quete/jam",
+    "authors": [
+        {
+            "name": "jampc",
+            "email": "jojeux77@tutanota.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
